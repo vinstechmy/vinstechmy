@@ -4,6 +4,6 @@
 - 👉 XRAY Lite Free
 - 👉 XRAY XTLS Lite Free
 - 👉 Donation DUITNOW T&G Ewallet : 110989008923 
-- 👉 Paypal : 
+- 👉 Paypal : paypal.me/vinstechmy
 - 📫 Telegram : t.me/vinstechmy
 
