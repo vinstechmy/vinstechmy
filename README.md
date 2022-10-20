@@ -3,7 +3,7 @@
 - 👉 XRAY Websocket Lite Free !
 - 👉 XRAY Lite Free !
 - 👉 XRAY XTLS Lite Free !
-- 👉 Donation DUITNOW T&G Ewallet : 110989008923 
+- 👉 Donation Duitnow TnG Ewallet : 110989008923 
 - 👉 Paypal : paypal.me/vinstechmy
 - 📫 Telegram : t.me/vinstechmy
 
