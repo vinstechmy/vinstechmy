@@ -1,5 +1,5 @@
 - 👉 XRAY Multiport Websocket Premium RM10 / 2 IP (Lifetime)
-- 👉 SSH-XRAY-Websocket-Multiport RM10 / 2 IP (Lifetime)
+- 👉 SSH XRAY Websocket Multiport Free !
 - 👉 XRAY Websocket Lite Free !
 - 👉 XRAY Lite Free !
 - 👉 XRAY XTLS Lite Free !
