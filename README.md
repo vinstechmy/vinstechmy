@@ -9,7 +9,7 @@
 - 👉 Ads Blocker By Abi Darwish
 - 👉 WSS Generator Universal
 - 👉 TCP BBR Mod By Vinstechmy
-- 👉 ASUS Router Bypass TTL For Expired Sim By Abi Darwish & Sudo (Hynet)
+- 👉 ASUS Router Bypass TTL For Expired Sim By Abi Darwish & Sudo
 - 👉 Media Unlocker Test Mod By Vinstechmy
 - 👉 Granted Root User Access For VPS
 - 👉 Donation Duitnow TnG Ewallet : 110989008923 
