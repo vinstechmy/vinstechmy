@@ -1,4 +1,5 @@
-- 👉 [NEW SCRIPT] Autoscript All in One (For Register & Installation Link PM Me At Telegram
+- 👉 [NEW SCRIPT] Autoscript All in One Support Multipath & Dynamic Path
+- 👉 [NEW SCRIPT] Autoscript XRAY Mini Websocket Support Multipath & Dynamic Path
 - 👉 XRAY Multiport Websocket V1 Premium RM10 / 2 IP (Lifetime)
 - 👉 XRAY Multiport Websocket V2 Premium RM10 / 2 IP (Lifetime)
 - 👉 SSH XRAY Websocket Multiport Free !
