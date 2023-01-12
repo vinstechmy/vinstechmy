@@ -1,4 +1,4 @@
-- 👉 [NEW SCRIPT] Autoscript XRAY Mini Websocket Support Multipath & Dynamic Path
+- 👉 [NEW SCRIPT] Mini XLite Autoscript Free !
 - 👉 XRAY Multiport Websocket V1 Premium RM10 / 2 IP (Lifetime) - VLESS TCP XTLS
 - 👉 XRAY Multiport Websocket V2 Premium RM10 / 2 IP (Lifetime) - TROJAN TCP XTLS
 - 👉 SSH XRAY Websocket Multiport Free !
