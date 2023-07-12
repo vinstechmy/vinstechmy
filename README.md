@@ -1,16 +1,9 @@
-- 👉 [NEW SCRIPT] Mini XLite Autoscript Free !
-- 👉 XRAY Multiport Websocket V1 Premium RM10 / 2 IP (Lifetime) - VLESS TCP XTLS
-- 👉 XRAY Multiport Websocket V2 Premium RM10 / 2 IP (Lifetime) - TROJAN TCP XTLS
+- 👉 Fallback Multiport Autoscript
+- 👉 Nginx Fallback Multiport Autoscript
+- 👉 Fallback Multiport Trojan Go Autoscript
+- 👉 Mini XLite Autoscript
+- 👉 XRAY Multiport Websocket V1 Premium RM10 / 2 IP (Lifetime)
 - 👉 SSH XRAY Websocket Multiport Free !
-- 👉 XRAY Websocket Lite Free !
-- 👉 XRAY Lite Free !
-- 👉 XRAY XTLS Lite Free !
-- 👉 Ads Blocker By Abi Darwish
-- 👉 WSS Generator Universal
-- 👉 TCP BBR Mod By Vinstechmy
-- 👉 ASUS Router Bypass TTL For Expired Sim By Abi Darwish & Sudo
-- 👉 Media Unlocker Test Mod By Vinstechmy
-- 👉 Granted Root User Access For VPS
 - 👉 Donation Duitnow TnG Ewallet : 110989008923 
 - 👉 Paypal : paypal.me/vinstechmy
 - 📫 Telegram : t.me/vinstechmy
